@@ -1,0 +1,37 @@
+.container{
+    position: relative;
+    text-align: center;
+}
+
+.navbar-nav{
+  float: right;
+}
+.header{
+  height: 400px;
+  margin: 4px;
+  width: 700px;
+  background-image: url("images/form_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.question{
+  font-size: 20px;
+  font-weight:30px;
+  float: left;
+  background-color: brown;
+
+}
+.img{
+transform: rotate(13deg);
+}
+.ridge{
+  border-style: ridge;
+  }
+  .shadow{
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    background-color: rgb(209, 230, 231);
+    box-shadow: 10px 10px 5px rgb(213, 233, 240);
+  }
